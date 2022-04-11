@@ -1,0 +1,16 @@
+.portal-card {
+  padding: 20px;
+  height: 192px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  .title {
+    font-size: 18px;
+    margin-bottom: 12px;
+  }
+  .description {
+    font-size: 14px;
+    color: #79889B;
+  }
+}

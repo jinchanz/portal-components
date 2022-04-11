@@ -1,6 +1,6 @@
 {
   "name": "@ablula/portal-components",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "portal-components",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -71,6 +71,6 @@
   },
   "componentConfig": {
     "isComponentLibrary": true,
-    "materialSchema": "https://unpkg.com/@ablula/portal-components@0.1.1/build/lowcode/assets-prod.json"
+    "materialSchema": "https://unpkg.com/@ablula/portal-components@0.1.2/build/lowcode/assets-prod.json"
   }
 }
