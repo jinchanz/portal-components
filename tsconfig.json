@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "module": "UMD",
+    "module": "ESNext",
     "target": "ESNext",
     "jsx": "react",
     "jsxFactory": "createElement",
